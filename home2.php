@@ -234,6 +234,7 @@
           <a href="Admin/login.php">Login</a>
           <a href="gallery.php">Gallery</a>
           <a href="contact_us.php">Contact</a>
+          <a href="our_service.php.php">Service</a>
         
       </nav>
 
